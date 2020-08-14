@@ -7307,7 +7307,8 @@ button.bg-dark:focus {
     padding-bottom: 3rem !important; }
   .pl-md-5,
   .px-md-5 {
-    padding-left: 3rem !important; }
+	width: 100%;
+}
   .m-md-n1 {
     margin: -0.25rem !important; }
   .mt-md-n1,
